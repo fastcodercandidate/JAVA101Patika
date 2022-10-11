@@ -28,5 +28,9 @@ Alan Formülü : π * r * r;
 -------------------------------------------------------------------------------------------------------------------------------------------
 Main7 klasöründe "Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
 𝜋 sayısını = 3.14 alınız.
-Formül : (𝜋 * (r*r) * 𝛼) / 360" alıştırmalarını yaptım.
+Formül : (𝜋 * (r*r) * 𝛼) / 360" 
 -------------------------------------------------------------------------------------------------------------------------------------------
+Main8 klasöründe " Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
+
+Formül
+Kilo (kg) / Boy(m) * Boy(m) "
