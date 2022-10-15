@@ -69,3 +69,8 @@ Dersteki örneklerin ve testteki soruların çözümü.
 Hesap Makinası klasöründe
 If else kullanmadan "Videodaki hesap makinesini switch-case kullanarak yapınız."
 -----------------------------------------------------------------------------------------------------
+Kullanıcı Girişi klasöründe
+ 1)Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun,
+2)eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip ,
+ 3)şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
+-----------------------------------------------------------------------------------------------------
