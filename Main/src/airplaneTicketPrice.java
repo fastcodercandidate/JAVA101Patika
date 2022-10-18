@@ -34,8 +34,7 @@ public class airplaneTicketPrice {
                newtotal = total - (total * 0.2);
            } else if ((age >= 12) && (age < 24)) {
                newtotal = total - (total * 0.1);
-           } else if ((age>=24)&&(age<=65)) {
-               newtotal=total;
+
            } else if (age > 65) {
                newtotal = total - (total * 0.3);
            }if (travelType==2){
